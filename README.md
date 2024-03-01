@@ -1,5 +1,8 @@
-### Hi there 👋
+### 🚀 Hi, I am Rance (rjldg)
 
+- 📗 Aspiring Computer Engineer and Entrepreneur (Current Undergraduate Student)
+- 🖥 Proficient in C++ and Python Basics, OOP, and DSA
+- 🌱 Learning ML/DL/AI, Software Design, and Digital Logic Design
 <!--
 **rjldg/rjldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
