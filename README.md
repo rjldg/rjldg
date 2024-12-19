@@ -2,7 +2,7 @@
 
 - 📗 Aspiring Computer Engineer and Entrepreneur (Current Undergraduate Computer Engineering Student)
 - 🖥 Proficient in C++ and Python, OOP, DSA, Software Design (Backend/DB), and Machine Learning Fundamentals :robot:
-- 🌱 Taking Specialization in Artificial Intelligence and Learning Embedded Systems, Data/Digital Communications, and Computer Engineering Drafting & Design
+- 🌱 Taking Specialization in Artificial Intelligence and Learning Computer Organization & Architecture, Data/Digital Communications, and Digital Signal Processing
 <!--
 **rjldg/rjldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
