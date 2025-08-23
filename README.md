@@ -1,7 +1,7 @@
 ### 🚀 Hi, I am Rance (rjldg)
 
 - 📗 Aspiring Computer Engineer and Technopreneur
-- 🖥 Proficient in C++ and Python, OOP, DSA, Software Design (Backend/DB), and AI/ML/DL Model Development Frameworks :robot:
+- 🖥 Proficient in Python, OOP, DSA, Software Design, and AI/ML/DL Model Development Frameworks :robot:
 - 🌱 Graduating Computer Engineering Student, AI Specialist, HCIA-AI Certified, Leader, and Visionary
 <!--
 **rjldg/rjldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
