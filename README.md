@@ -1,6 +1,6 @@
 ### 🚀 Hi, I am Rance (rjldg)
 
-- 📗 Aspiring AI/ML/MLOps Engineer and Technopreneur
+- 📗 AI Engineer Intern & Aspiring Techpreneuer
 - 🖥 Proficient in Python, OOP, DSA, Software Design, and AI/ML/DL Model Development Frameworks :robot:
 - 🌱 Computer Engineering Graduate, Minor in AI, HCIA-AI Certified, Leader, and Visionary
 <!--
